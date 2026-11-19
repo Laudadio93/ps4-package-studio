@@ -1,6 +1,6 @@
 # PS4 Package Studio
 
-Create PS4 Classics fPKG packages from supported PS1 and PS2 disc images on Windows. The standalone application includes its desktop runtime, standard packaging resources, disc catalogs, and the selected electric-blue PS4 icon.
+Create PS4 Classics fPKG packages from supported PS1 and PS2 disc images on Windows. The standalone application includes its desktop runtime, standard packaging resources, and disc catalogs.
 
 **[Download the latest Windows ZIP](https://github.com/Laudadio93/ps4-package-studio/releases/latest)**, extract it, and open **PS4 Package Studio.exe**. The built-in workflows do not require users to install Python, .NET, or a separate packaging app.
 
